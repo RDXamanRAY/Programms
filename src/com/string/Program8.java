@@ -1,3 +1,5 @@
+// find the occurance of each character in given String
+
 package com.string;
 
 import java.util.HashMap;
