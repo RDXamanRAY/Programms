@@ -1,3 +1,5 @@
+//remove the duplicate characters from given string
+
 package com.string;
 
 public class Program10 {
