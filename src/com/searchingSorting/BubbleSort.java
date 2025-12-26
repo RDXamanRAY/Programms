@@ -1,5 +1,7 @@
 package com.searchingSorting;
 
+import java.util.Arrays;
+
 public class BubbleSort {
 
     public static int[] sort(int arr[]){
@@ -26,5 +28,7 @@ public class BubbleSort {
         int res[] = sort(arr);
         System.out.println(res);
         printArray(arr);
+        System.out.println();
+        System.out.println(Arrays.toString(res));
     }
 }
