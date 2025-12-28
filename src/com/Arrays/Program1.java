@@ -1,7 +1,5 @@
 //find even index elements
 
-//print even number
-
 package com.Arrays;
 
 public class Program1 {
