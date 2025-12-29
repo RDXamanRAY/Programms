@@ -1,3 +1,5 @@
+//Merge two given arrays
+
 package com.Arrays;
 
 import java.util.Arrays;
